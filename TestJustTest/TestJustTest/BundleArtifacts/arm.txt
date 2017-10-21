@@ -1,0 +1,5 @@
+MainPackage=C:\Users\hupo3\Documents\Visual Studio 2017\Projects\TestJustTest\TestJustTest\bin\ARM\Debug\TestJustTest_1.0.3.0_ARM_Debug.appx
+SymbolPackage=C:\Users\hupo3\Documents\Visual Studio 2017\Projects\TestJustTest\TestJustTest\AppPackages\TestJustTest_1.0.3.0_Debug_Test\TestJustTest_1.0.3.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\hupo3\Documents\Visual Studio 2017\Projects\TestJustTest\TestJustTest\bin\ARM\Debug\TestJustTest_1.0.3.0_scale-140.appx
+ResourcePack=C:\Users\hupo3\Documents\Visual Studio 2017\Projects\TestJustTest\TestJustTest\bin\ARM\Debug\TestJustTest_1.0.3.0_scale-180.appx
+ResourcePack=C:\Users\hupo3\Documents\Visual Studio 2017\Projects\TestJustTest\TestJustTest\bin\ARM\Debug\TestJustTest_1.0.3.0_scale-240.appx

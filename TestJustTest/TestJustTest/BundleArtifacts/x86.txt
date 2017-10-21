@@ -1,0 +1,2 @@
+MainPackage=C:\Users\hupo3\Documents\Visual Studio 2017\Projects\TestJustTest\TestJustTest\bin\x86\Debug\TestJustTest_1.0.3.0_x86_Debug.appx
+SymbolPackage=C:\Users\hupo3\Documents\Visual Studio 2017\Projects\TestJustTest\TestJustTest\AppPackages\TestJustTest_1.0.3.0_Debug_Test\TestJustTest_1.0.3.0_x86_Debug.appxsym
